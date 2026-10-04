@@ -1,0 +1,14 @@
+{
+ "redirects": [
+	{
+	 "source": "/egt",
+	 "destination" : "https://bda-efrei.notion.site/egt2",
+	 "permanent": true
+	},
+	{
+	 "source": "/discord",
+	 "destination": "https://discord.gg/Ts2es3v4WH",
+	 "permanent": true
+	}
+ ]
+}
