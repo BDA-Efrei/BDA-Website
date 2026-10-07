@@ -3,7 +3,7 @@
     {
       "source": "/egt",
       "destination": "https://discord.gg/wsGSnY3UHe",
-      "permanent": true
+      "permanent": false
     },
     {
       "source": "/discord",
