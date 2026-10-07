@@ -1,14 +1,19 @@
 {
- "redirects": [
-	{
-	 "source": "/egt",
-	 "destination" : "https://discord.gg/wsGSnY3UHe",
-	 "permanent": true
-	},
-	{
-	 "source": "/discord",
-	 "destination": "https://discord.gg/Ts2es3v4WH",
-	 "permanent": true
-	}
- ]
+  "redirects": [
+    {
+      "source": "/egt",
+      "destination": "https://discord.gg/wsGSnY3UHe",
+      "permanent": true
+    },
+    {
+      "source": "/discord",
+      "destination": "https://discord.gg/Ts2es3v4WH",
+      "permanent": true
+    },
+    {
+      "source": "/rejoindre",
+      "destination": "https://forms.gle/8ymdSPZr25AU9gQT6",
+      "permanent": false
+    }
+  ]
 }
